@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm r007-snatcher</h1>
-<h3 align="center">🧠 About Me - 🕶 14yo Self-taught Ethical Hacker - 🌐 Web Pentester focused on XSS, SQLi, LFI, Auth Bypass, and File Upload vulns - 🔍 VDP enthusiast — hunting bugs and reporting them responsibly - ⚙️ Passionate about automation, recon, and chaining CVEs</h3>
+<h3 align="center">🧠 About Me - 🕶  Self-taught Ethical Hacker - 🌐 Web Pentester focused on XSS, SQLi, LFI, Auth Bypass, and File Upload vulns - 🔍 VDP enthusiast — hunting bugs and reporting them responsibly - ⚙️ Passionate about automation, recon, and chaining CVEs</h3>
 
 - 👀I'm Currently Learning **Web Pentesting , Networking**
 
